@@ -1,6 +1,6 @@
 //This class is defined for all opertions and number of the calculator
 class Calculator {
-    //
+    //this is the construcot of calculator class
     constructor (previousOperandTextElement , currentOperandTextElement) 
     {
         this.previousOperandTextElement=previousOperandTextElement
