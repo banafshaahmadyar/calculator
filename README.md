@@ -6,7 +6,7 @@
 ## Instructions 
 
 In this calculator we can do four opration in Numbers.
-That Numbers can be integer og float.
+That Numbers can be integer or float.
 Between Two number we should add Operation sign that do Operation.
 
 ## Calculator architecture
