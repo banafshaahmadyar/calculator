@@ -1,7 +1,7 @@
 
 # JavaScript Calculator
 * A simple Calculator that has four operation 
-* ![image](https://user-images.githubusercontent.com/100950189/177043488-83a607bb-a6ef-411a-8c75-57aca983f609.png)
+ ![image](https://user-images.githubusercontent.com/100950189/177043488-83a607bb-a6ef-411a-8c75-57aca983f609.png)
 
 
 ## Instructions 
@@ -22,5 +22,7 @@ Between Two number we should add Operation sign that do Operation.
 * Getdisplay number that show numbers and do not allow (.) and zero number
 * Updatedisplay that show operation in the display
 * Constant This variables are defined for getting numbers and operations in from calculator
+![image](https://user-images.githubusercontent.com/100950189/177043576-35dbff4a-6549-4d1c-b263-b87bcdf882e0.png)
+
 
 
