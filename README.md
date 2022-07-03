@@ -1,7 +1,8 @@
 
 # JavaScript Calculator
-
 * A simple Calculator that has four operation 
+* ![image](https://user-images.githubusercontent.com/100950189/177043488-83a607bb-a6ef-411a-8c75-57aca983f609.png)
+
 
 ## Instructions 
 
