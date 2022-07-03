@@ -22,7 +22,11 @@ Between Two number we should add Operation sign that do Operation.
 * Getdisplay number that show numbers and do not allow (.) and zero number
 * Updatedisplay that show operation in the display
 * Constant This variables are defined for getting numbers and operations in from calculator
-![image](https://user-images.githubusercontent.com/100950189/177043576-35dbff4a-6549-4d1c-b263-b87bcdf882e0.png)
+
+
+
+![image](https://user-images.githubusercontent.com/100950189/177043576-35dbff4a-6549-4d1c-b263-b87bcdf882e0.png)![image](https://user-images.githubusercontent.com/100950189/177043629-ababab2b-00ba-42ae-b2ef-137e380ff42c.png)
+
 
 
 
