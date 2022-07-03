@@ -14,7 +14,7 @@ Between Two number we should add Operation sign that do Operation.
 ## Page information
 * This calculator has one page that all operation and numbers include to this page
 ## Keywords that using in this calculator
-* a class that by the name of calculator
+* A class by the name of calculator
 * Clear function  that clear number in current number
 * Delete function that delete the last number in the display
 * ChooseOperation that choose operation between four exsit operation
