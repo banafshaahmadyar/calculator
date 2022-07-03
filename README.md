@@ -1,7 +1,7 @@
 // Describe you project
 # JavaScript Calculator
 
-![Calculator Screenshot](https://github.com/pranaymethuku/js-calculator/blob/master/calculator_screenshot.png)
+A simple Calculator that has four operation 
 
 ## Instructions to grader
 
