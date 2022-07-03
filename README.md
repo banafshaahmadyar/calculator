@@ -1,11 +1,13 @@
 // Describe you project
 # JavaScript Calculator
 
-A simple Calculator that has four operation 
+* A simple Calculator that has four operation 
 
-## Instructions to grader
+## Instructions 
 
-Once you clone the repository, you can run the project by running `firefox index.html`. HTML testing was done using the W3C HTML validator, other testing was done visually.
+In this calculator we can do four opration in Numbers.
+That Numbers can be integer og float.
+Between Two number we should add Operation sign that do Operation.
 
 ### Roles
 
